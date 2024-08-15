@@ -1,0 +1,39 @@
+.contenedor{
+    text-align: center;
+}
+
+.imagen{
+    width: 250px;
+    border: solid rgb(30, 150, 210);
+}
+.titulo{
+    text-align: center;
+    color: goldenrod;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button2{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.contenedorBoton4{
+    text-align: center;
+    margin-top: 20px;
+}
+.boton4 {
+    padding: 10px 20px; 
+    font-size: 16px; 
+}
+.total{
+    margin-left: 5px;
+}
+.contenedorTarjeta{
+    text-align: center;
+}
+
+.inputTarjeta{
+    margin-left: 5px;
+}
+
+.button:hover, .button2:hover, .button3:hover, .buttonEnviarCodigo:hover, .boton4:hover {
+   background-color: bisque;
+}
